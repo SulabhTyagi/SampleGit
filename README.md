@@ -1,1 +1,2 @@
 # SampleGit
+For testing Git
