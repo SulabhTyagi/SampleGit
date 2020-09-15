@@ -1,1 +1,1 @@
-Sample Hello World program
+Sample Hello World program works fine
